@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-10-22T11:08:00.474Z_
+_Generated: 2026-10-23T10:59:08.050Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Asamblarea, Montarea Pieselor
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728018.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728018.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Asistent Medical Generalist
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1727857.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1727857.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -52,32 +64,20 @@ _Generated: 2026-10-22T11:08:00.474Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Femeie De Serviciu
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727568.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727568.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Ingrijitor Cladiri
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-cladiri-in-alba-iulia-1727567.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-cladiri-in-alba-iulia-1727567.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Ingrijitor Cladiri
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-cladiri-in-alba-iulia-1727564.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-cladiri-in-alba-iulia-1727564.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Femeie De Serviciu
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727556.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727556.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Asistent Medical Radiologie
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-radiologie-in-alba-iulia-1727526.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-radiologie-in-alba-iulia-1727526.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Femeie De Serviciu
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Administrator Pensiune Turistica
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/administrator-pensiune-turistica-in-alba-iulia-1727167.html](https://www.jobrapid.ro/locuri-de-munca/administrator-pensiune-turistica-in-alba-iulia-1727167.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
