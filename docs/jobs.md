@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-25 |
 
-## Current Job Listings (11)
+## Current Job Listings (13)
 
-_Generated: 2026-10-23T10:59:08.050Z_
+_Generated: 2026-10-25T10:41:05.312Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat In Silvicultura
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html)
+- **Location:** Silvicultura In Alba Iulia
+- **Status:** scraped
+
+### Operator La Recoltarea Si Toaletarea Arborilor Forestieri
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html](https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -52,12 +64,6 @@ _Generated: 2026-10-23T10:59:08.050Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Proiectant Inginer Instalatii
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html](https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Electrician De Intretinere Si Reparatii
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1727606.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1727606.html)
@@ -73,6 +79,12 @@ _Generated: 2026-10-23T10:59:08.050Z_
 ### Femeie De Serviciu
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Proiectant Inginer Instalatii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html](https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
