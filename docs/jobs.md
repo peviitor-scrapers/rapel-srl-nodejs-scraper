@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
 ## Current Job Listings (13)
 
-_Generated: 2026-10-25T10:41:05.312Z_
+_Generated: 2026-10-26T12:13:50.017Z_
 
 ### Curier
 
