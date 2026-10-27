@@ -10,15 +10,39 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (13)
+## Current Job Listings (15)
 
-_Generated: 2026-10-26T12:13:50.017Z_
+_Generated: 2026-10-27T11:35:00.948Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Masinist La Masini Pentru Terasamente (ifronist)
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Femeie De Serviciu
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728419.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728419.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Psiholog
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/psiholog-in-alba-iulia-1728379.html](https://www.jobrapid.ro/locuri-de-munca/psiholog-in-alba-iulia-1728379.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Fiziokinetoterapeut
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -76,20 +100,8 @@ _Generated: 2026-10-26T12:13:50.017Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Femeie De Serviciu
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1727170.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Proiectant Inginer Instalatii
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html](https://www.jobrapid.ro/locuri-de-munca/proiectant-inginer-instalatii-in-alba-iulia-1708064.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Administrator Pensiune Turistica
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/administrator-pensiune-turistica-in-alba-iulia-1727167.html](https://www.jobrapid.ro/locuri-de-munca/administrator-pensiune-turistica-in-alba-iulia-1727167.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
