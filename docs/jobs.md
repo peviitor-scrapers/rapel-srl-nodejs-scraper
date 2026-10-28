@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (15)
+## Current Job Listings (23)
 
-_Generated: 2026-10-27T11:35:00.948Z_
+_Generated: 2026-10-28T12:05:27.891Z_
 
 ### Curier
 
@@ -22,15 +22,69 @@ _Generated: 2026-10-27T11:35:00.948Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
+### Inginer Electroenergetica
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html](https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Asamblarea, Montarea Pieselor
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728821.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728821.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat In Silvicultura
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html)
+- **Location:** Silvicultura In Alba Iulia
+- **Status:** scraped
+
+### Motorist La Motoagregate Si Masini In Silvicultura
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/motorist-la-motoagregate-si-masini-in-silvicultura-in-alba-iulia-1728801.html](https://www.jobrapid.ro/locuri-de-munca/motorist-la-motoagregate-si-masini-in-silvicultura-in-alba-iulia-1728801.html)
+- **Location:** Silvicultura In Alba Iulia
+- **Status:** scraped
+
+### Arhivar
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/arhivar-in-alba-iulia-1728797.html](https://www.jobrapid.ro/locuri-de-munca/arhivar-in-alba-iulia-1728797.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Manipulant Marfuri
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
 ### Masinist La Masini Pentru Terasamente (ifronist)
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728690.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728690.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1728686.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1728686.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Desenator Tehnic
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html](https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
 ### Femeie De Serviciu
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728419.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728419.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728626.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728626.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Masinist La Masini Pentru Terasamente (ifronist)
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -44,12 +98,6 @@ _Generated: 2026-10-27T11:35:00.948Z_
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html)
 - **Location:** Alba Iulia
-- **Status:** scraped
-
-### Muncitor Necalificat In Silvicultura
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html)
-- **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
 ### Operator La Recoltarea Si Toaletarea Arborilor Forestieri
