@@ -10,15 +10,45 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
-## Current Job Listings (23)
+## Current Job Listings (25)
 
-_Generated: 2026-10-28T12:05:27.891Z_
+_Generated: 2026-10-29T12:15:37.726Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor De Copii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1729248.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1729248.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729169.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729169.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sofer De Autoturisme Si Camionete
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1729062.html](https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1729062.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ambalator Manual
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ambalator-manual-in-alba-iulia-1728997.html](https://www.jobrapid.ro/locuri-de-munca/ambalator-manual-in-alba-iulia-1728997.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Manipulant Marfuri
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -46,12 +76,6 @@ _Generated: 2026-10-28T12:05:27.891Z_
 - **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
-### Arhivar
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/arhivar-in-alba-iulia-1728797.html](https://www.jobrapid.ro/locuri-de-munca/arhivar-in-alba-iulia-1728797.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Manipulant Marfuri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html)
@@ -76,12 +100,6 @@ _Generated: 2026-10-28T12:05:27.891Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Femeie De Serviciu
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728626.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1728626.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Masinist La Masini Pentru Terasamente (ifronist)
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
@@ -103,12 +121,6 @@ _Generated: 2026-10-28T12:05:27.891Z_
 ### Operator La Recoltarea Si Toaletarea Arborilor Forestieri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html](https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Muncitor Necalificat La Asamblarea, Montarea Pieselor
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728018.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728018.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
