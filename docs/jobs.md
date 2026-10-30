@@ -10,15 +10,33 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (25)
+## Current Job Listings (27)
 
-_Generated: 2026-10-29T12:15:37.726Z_
+_Generated: 2026-10-30T12:06:14.408Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Asistent Manager
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-manager-in-alba-iulia-1729523.html](https://www.jobrapid.ro/locuri-de-munca/asistent-manager-in-alba-iulia-1729523.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Fiziokinetoterapeut
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -121,12 +139,6 @@ _Generated: 2026-10-29T12:15:37.726Z_
 ### Operator La Recoltarea Si Toaletarea Arborilor Forestieri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html](https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Asistent Medical Generalist
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1727857.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1727857.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
