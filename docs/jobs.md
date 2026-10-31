@@ -10,15 +10,39 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
 ## Current Job Listings (27)
 
-_Generated: 2026-10-30T12:06:14.408Z_
+_Generated: 2026-10-31T11:40:09.052Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Reprezentant Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html](https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Lucrator Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Inginer Electroenergetica
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html](https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -37,12 +61,6 @@ _Generated: 2026-10-30T12:06:14.408Z_
 ### Fiziokinetoterapeut
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Ingrijitor De Copii
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1729248.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1729248.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -67,12 +85,6 @@ _Generated: 2026-10-30T12:06:14.408Z_
 ### Manipulant Marfuri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Inginer Electroenergetica
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html](https://www.jobrapid.ro/locuri-de-munca/inginer-electroenergetica-in-alba-iulia-1728839.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -130,21 +142,9 @@ _Generated: 2026-10-30T12:06:14.408Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Fiziokinetoterapeut
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1728353.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Operator La Recoltarea Si Toaletarea Arborilor Forestieri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html](https://www.jobrapid.ro/locuri-de-munca/operator-la-recoltarea-si-toaletarea-arborilor-forestieri-in-alba-iulia-1728247.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Manipulant Marfuri
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-661220.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-661220.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
