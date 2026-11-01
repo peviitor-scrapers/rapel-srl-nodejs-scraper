@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-10-31 |
+| Last Scraped | 2026-11-01 |
 
-## Current Job Listings (27)
+## Current Job Listings (25)
 
-_Generated: 2026-10-31T11:40:09.052Z_
+_Generated: 2026-11-01T12:39:35.357Z_
 
 ### Curier
 
@@ -22,15 +22,15 @@ _Generated: 2026-10-31T11:40:09.052Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Reprezentant Comercial
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html](https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Lucrator Comercial
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Reprezentant Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html](https://www.jobrapid.ro/locuri-de-munca/reprezentant-comercial-in-alba-iulia-1729795.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -76,12 +76,6 @@ _Generated: 2026-10-31T11:40:09.052Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Ambalator Manual
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ambalator-manual-in-alba-iulia-1728997.html](https://www.jobrapid.ro/locuri-de-munca/ambalator-manual-in-alba-iulia-1728997.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Manipulant Marfuri
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728949.html)
@@ -104,12 +98,6 @@ _Generated: 2026-10-31T11:40:09.052Z_
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/motorist-la-motoagregate-si-masini-in-silvicultura-in-alba-iulia-1728801.html](https://www.jobrapid.ro/locuri-de-munca/motorist-la-motoagregate-si-masini-in-silvicultura-in-alba-iulia-1728801.html)
 - **Location:** Silvicultura In Alba Iulia
-- **Status:** scraped
-
-### Manipulant Marfuri
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1728782.html)
-- **Location:** Alba Iulia
 - **Status:** scraped
 
 ### Masinist La Masini Pentru Terasamente (ifronist)
