@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
 ## Current Job Listings (26)
 
-_Generated: 2026-11-03T13:36:35.629Z_
+_Generated: 2026-11-04T13:45:20.941Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Maseur
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/maseur-in-alba-iulia-1730539.html](https://www.jobrapid.ro/locuri-de-munca/maseur-in-alba-iulia-1730539.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1730442.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1730442.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -118,12 +130,6 @@ _Generated: 2026-11-03T13:36:35.629Z_
 - **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
-### Desenator Tehnic
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html](https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Masinist La Masini Pentru Terasamente (ifronist)
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
@@ -157,12 +163,6 @@ _Generated: 2026-11-03T13:36:35.629Z_
 ### Electrician De Intretinere Si Reparatii
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1727606.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1727606.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Asistent Medical Radiologie
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-radiologie-in-alba-iulia-1727526.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-radiologie-in-alba-iulia-1727526.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
