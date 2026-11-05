@@ -10,15 +10,63 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (26)
+## Current Job Listings (29)
 
-_Generated: 2026-11-04T13:45:20.941Z_
+_Generated: 2026-11-05T13:57:47.646Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent De Securitate
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Ambalarea Produselor Solide Si Semisolide
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-ambalarea-produselor-solide-si-semisolide-in-alba-iulia-1730802.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-ambalarea-produselor-solide-si-semisolide-in-alba-iulia-1730802.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Lucrator Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730756.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730756.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Lucrator Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1730730.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1730730.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Bucatar
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/bucatar-in-alba-iulia-1730688.html](https://www.jobrapid.ro/locuri-de-munca/bucatar-in-alba-iulia-1730688.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Manipulant Marfuri
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1730643.html](https://www.jobrapid.ro/locuri-de-munca/manipulant-marfuri-in-alba-iulia-1730643.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -52,18 +100,6 @@ _Generated: 2026-11-04T13:45:20.941Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Conducator Auto Transport Rutier De Persoane
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-persoane-in-alba-iulia-1730152.html](https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-persoane-in-alba-iulia-1730152.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Vanzator
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/vanzator-in-alba-iulia-1730044.html](https://www.jobrapid.ro/locuri-de-munca/vanzator-in-alba-iulia-1730044.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Lucrator Comercial
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1729733.html)
@@ -76,12 +112,6 @@ _Generated: 2026-11-04T13:45:20.941Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Ingrijitor Animale
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Asistent Manager
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-manager-in-alba-iulia-1729523.html](https://www.jobrapid.ro/locuri-de-munca/asistent-manager-in-alba-iulia-1729523.html)
@@ -91,18 +121,6 @@ _Generated: 2026-11-04T13:45:20.941Z_
 ### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Fiziokinetoterapeut
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html](https://www.jobrapid.ro/locuri-de-munca/fiziokinetoterapeut-in-alba-iulia-1729288.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Ingrijitor Animale
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729169.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729169.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
