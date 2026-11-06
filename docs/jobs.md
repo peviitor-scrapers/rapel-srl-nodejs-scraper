@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (29)
+## Current Job Listings (32)
 
-_Generated: 2026-11-05T13:57:47.646Z_
+_Generated: 2026-11-06T13:43:09.807Z_
 
 ### Curier
 
@@ -22,15 +22,33 @@ _Generated: 2026-11-05T13:57:47.646Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Agent De Securitate
+### Oficiant Posta Telegrame
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/oficiant-posta-telegrame-in-alba-iulia-1731039.html](https://www.jobrapid.ro/locuri-de-munca/oficiant-posta-telegrame-in-alba-iulia-1731039.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Muncitor Necalificat La Ambalarea Produselor Solide Si Semisolide
+### Agent Curier
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-ambalarea-produselor-solide-si-semisolide-in-alba-iulia-1730802.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-ambalarea-produselor-solide-si-semisolide-in-alba-iulia-1730802.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-curier-in-alba-iulia-1731037.html](https://www.jobrapid.ro/locuri-de-munca/agent-curier-in-alba-iulia-1731037.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent De Vanzari
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1730972.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1730972.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Instalator Instalatii Tehnico-sanitare Si De Gaze
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/instalator-instalatii-tehnico-sanitare-si-de-gaze-in-alba-iulia-1730944.html](https://www.jobrapid.ro/locuri-de-munca/instalator-instalatii-tehnico-sanitare-si-de-gaze-in-alba-iulia-1730944.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent De Securitate
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-securitate-in-alba-iulia-1730871.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
