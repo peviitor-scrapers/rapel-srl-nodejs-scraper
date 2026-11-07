@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-06 |
+| Last Scraped | 2026-11-07 |
 
 ## Current Job Listings (32)
 
-_Generated: 2026-11-06T13:43:09.807Z_
+_Generated: 2026-11-07T12:25:21.636Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ospatar (chelner)
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ospatar-chelner-in-alba-iulia-1731360.html](https://www.jobrapid.ro/locuri-de-munca/ospatar-chelner-in-alba-iulia-1731360.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sef Agentie Comerciala
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sef-agentie-comerciala-in-alba-iulia-1731210.html](https://www.jobrapid.ro/locuri-de-munca/sef-agentie-comerciala-in-alba-iulia-1731210.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -67,12 +79,6 @@ _Generated: 2026-11-06T13:43:09.807Z_
 ### Lucrator Comercial
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Ingrijitor Animale
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1730730.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1730730.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -152,12 +158,6 @@ _Generated: 2026-11-06T13:43:09.807Z_
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728821.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-asamblarea-montarea-pieselor-in-alba-iulia-1728821.html)
 - **Location:** Alba Iulia
-- **Status:** scraped
-
-### Muncitor Necalificat In Silvicultura
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1728248.html)
-- **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
 ### Motorist La Motoagregate Si Masini In Silvicultura
