@@ -10,15 +10,69 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (32)
+## Current Job Listings (39)
 
-_Generated: 2026-11-09T15:07:23.168Z_
+_Generated: 2026-11-10T14:18:09.897Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Constructor Structuri Monolite
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/constructor-structuri-monolite-in-alba-iulia-1731768.html](https://www.jobrapid.ro/locuri-de-munca/constructor-structuri-monolite-in-alba-iulia-1731768.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Lucrator Bucatarie (spalator Vase Mari)
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-alba-iulia-1731709.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-alba-iulia-1731709.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Spalatoreasa Lenjerie
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/spalatoreasa-lenjerie-in-alba-iulia-1731706.html](https://www.jobrapid.ro/locuri-de-munca/spalatoreasa-lenjerie-in-alba-iulia-1731706.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician De Intretinere Si Reparatii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1731703.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1731703.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician De Intretinere In Constructii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-in-constructii-in-alba-iulia-1731683.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-in-constructii-in-alba-iulia-1731683.html)
+- **Location:** Constructii In Alba Iulia
+- **Status:** scraped
+
+### Tehnician Pentru Sisteme De Detectie, Supraveghere Video, Control Acces
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/tehnician-pentru-sisteme-de-detectie-supraveghere-video-control-acces-in-alba-iulia-1731658.html](https://www.jobrapid.ro/locuri-de-munca/tehnician-pentru-sisteme-de-detectie-supraveghere-video-control-acces-in-alba-iulia-1731658.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Inginer Zootehnist
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/inginer-zootehnist-in-alba-iulia-1731572.html](https://www.jobrapid.ro/locuri-de-munca/inginer-zootehnist-in-alba-iulia-1731572.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Manichiurist
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/manichiurist-in-alba-iulia-1731552.html](https://www.jobrapid.ro/locuri-de-munca/manichiurist-in-alba-iulia-1731552.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Spargerea Si Taierea Materialelor De Constructii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-spargerea-si-taierea-materialelor-de-constructii-in-alba-iulia-1731522.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-spargerea-si-taierea-materialelor-de-constructii-in-alba-iulia-1731522.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -49,12 +103,6 @@ _Generated: 2026-11-09T15:07:23.168Z_
 ### Agent De Vanzari
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1730972.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1730972.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Instalator Instalatii Tehnico-sanitare Si De Gaze
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/instalator-instalatii-tehnico-sanitare-si-de-gaze-in-alba-iulia-1730944.html](https://www.jobrapid.ro/locuri-de-munca/instalator-instalatii-tehnico-sanitare-si-de-gaze-in-alba-iulia-1730944.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -145,12 +193,6 @@ _Generated: 2026-11-09T15:07:23.168Z_
 ### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1729447.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Sofer De Autoturisme Si Camionete
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1729062.html](https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1729062.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
