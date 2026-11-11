@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
 ## Current Job Listings (39)
 
-_Generated: 2026-11-10T14:18:09.897Z_
+_Generated: 2026-11-11T13:31:29.761Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Mecanic Auto
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1731906.html](https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1731906.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician Echipamente Electrice Si Energetice
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html](https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -120,12 +132,6 @@ _Generated: 2026-11-10T14:18:09.897Z_
 
 ### Lucrator Comercial
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730756.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730756.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Lucrator Comercial
-
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
@@ -211,12 +217,6 @@ _Generated: 2026-11-10T14:18:09.897Z_
 ### Masinist La Masini Pentru Terasamente (ifronist)
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html](https://www.jobrapid.ro/locuri-de-munca/masinist-la-masini-pentru-terasamente-ifronist-in-alba-iulia-1728470.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Psiholog
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/psiholog-in-alba-iulia-1728379.html](https://www.jobrapid.ro/locuri-de-munca/psiholog-in-alba-iulia-1728379.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
