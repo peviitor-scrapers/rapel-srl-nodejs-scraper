@@ -10,15 +10,21 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
-## Current Job Listings (39)
+## Current Job Listings (38)
 
-_Generated: 2026-11-11T13:31:29.761Z_
+_Generated: 2026-11-12T14:35:29.022Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Asistent Medical Generalist
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1732057.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1732057.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -67,12 +73,6 @@ _Generated: 2026-11-11T13:31:29.761Z_
 ### Tehnician Pentru Sisteme De Detectie, Supraveghere Video, Control Acces
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/tehnician-pentru-sisteme-de-detectie-supraveghere-video-control-acces-in-alba-iulia-1731658.html](https://www.jobrapid.ro/locuri-de-munca/tehnician-pentru-sisteme-de-detectie-supraveghere-video-control-acces-in-alba-iulia-1731658.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Inginer Zootehnist
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/inginer-zootehnist-in-alba-iulia-1731572.html](https://www.jobrapid.ro/locuri-de-munca/inginer-zootehnist-in-alba-iulia-1731572.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -127,12 +127,6 @@ _Generated: 2026-11-11T13:31:29.761Z_
 ### Ingrijitor Animale
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1729562.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Lucrator Comercial
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1730754.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
