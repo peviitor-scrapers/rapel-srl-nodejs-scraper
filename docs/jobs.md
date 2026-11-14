@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-13T13:54:11.984Z_
+_Generated: 2026-11-14T12:56:52.386Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Logoped
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/logoped-in-alba-iulia-1732862.html](https://www.jobrapid.ro/locuri-de-munca/logoped-in-alba-iulia-1732862.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Gestionar Depozit
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/gestionar-depozit-in-alba-iulia-1732841.html](https://www.jobrapid.ro/locuri-de-munca/gestionar-depozit-in-alba-iulia-1732841.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -61,18 +73,6 @@ _Generated: 2026-11-13T13:54:11.984Z_
 ### Electrician Echipamente Electrice Si Energetice
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html](https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Lucrator Bucatarie (spalator Vase Mari)
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-alba-iulia-1731709.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-bucatarie-spalator-vase-mari-in-alba-iulia-1731709.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Spalatoreasa Lenjerie
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/spalatoreasa-lenjerie-in-alba-iulia-1731706.html](https://www.jobrapid.ro/locuri-de-munca/spalatoreasa-lenjerie-in-alba-iulia-1731706.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
