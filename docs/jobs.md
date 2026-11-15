@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-11-14T12:56:52.386Z_
+_Generated: 2026-11-15T13:25:24.184Z_
 
 ### Curier
 
@@ -55,6 +55,12 @@ _Generated: 2026-11-14T12:56:52.386Z_
 ### Sapator Manual
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1732409.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1732409.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Femeie De Serviciu
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1733085.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1733085.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
