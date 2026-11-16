@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (12)
+## Current Job Listings (11)
 
-_Generated: 2026-11-15T13:25:24.184Z_
+_Generated: 2026-11-16T14:44:55.112Z_
 
 ### Curier
 
@@ -79,11 +79,5 @@ _Generated: 2026-11-15T13:25:24.184Z_
 ### Electrician Echipamente Electrice Si Energetice
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html](https://www.jobrapid.ro/locuri-de-munca/electrician-echipamente-electrice-si-energetice-in-alba-iulia-1731890.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Electrician De Intretinere Si Reparatii
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1731703.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1731703.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
