@@ -10,15 +10,57 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
-## Current Job Listings (11)
+## Current Job Listings (18)
 
-_Generated: 2026-11-16T14:44:55.112Z_
+_Generated: 2026-11-17T15:28:56.952Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Infirmier/infirmiera
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html](https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent De Vanzari
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1733392.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1733392.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Lucrator Comercial
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sapator Manual
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1733357.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1733357.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent Servicii Client
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-servicii-client-in-alba-iulia-1733274.html](https://www.jobrapid.ro/locuri-de-munca/agent-servicii-client-in-alba-iulia-1733274.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Operator Imprimeur Textile
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-imprimeur-textile-in-alba-iulia-1733268.html](https://www.jobrapid.ro/locuri-de-munca/operator-imprimeur-textile-in-alba-iulia-1733268.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Croitor-confectioner Imbracaminte, Dupa Comanda
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/croitor-confectioner-imbracaminte-dupa-comanda-in-alba-iulia-1733161.html](https://www.jobrapid.ro/locuri-de-munca/croitor-confectioner-imbracaminte-dupa-comanda-in-alba-iulia-1733161.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
