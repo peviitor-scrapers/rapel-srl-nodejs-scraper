@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (20)
+## Current Job Listings (25)
 
-_Generated: 2026-11-18T15:04:01.746Z_
+_Generated: 2026-11-19T15:13:35.123Z_
 
 ### Curier
 
@@ -22,15 +22,57 @@ _Generated: 2026-11-18T15:04:01.746Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Ingrijitor De Copii
+### Instalator Apa, Canal
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1733939.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-de-copii-in-alba-iulia-1733939.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/instalator-apa-canal-in-alba-iulia-1734249.html](https://www.jobrapid.ro/locuri-de-munca/instalator-apa-canal-in-alba-iulia-1734249.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Programator Ajutor
+### Mecanic Auto
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/programator-ajutor-in-alba-iulia-1733928.html](https://www.jobrapid.ro/locuri-de-munca/programator-ajutor-in-alba-iulia-1733928.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734246.html](https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734246.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Spargerea Si Taierea Materialelor De Constructii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-spargerea-si-taierea-materialelor-de-constructii-in-alba-iulia-1734244.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-spargerea-si-taierea-materialelor-de-constructii-in-alba-iulia-1734244.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Conducator Auto Transport Rutier De Marfuri
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-marfuri-in-alba-iulia-1734220.html](https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-marfuri-in-alba-iulia-1734220.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat In Silvicultura
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html)
+- **Location:** Silvicultura In Alba Iulia
+- **Status:** scraped
+
+### Camerista Hotel
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/camerista-hotel-in-alba-iulia-1734048.html](https://www.jobrapid.ro/locuri-de-munca/camerista-hotel-in-alba-iulia-1734048.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ospatar (chelner)
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ospatar-chelner-in-alba-iulia-1734036.html](https://www.jobrapid.ro/locuri-de-munca/ospatar-chelner-in-alba-iulia-1734036.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1734017.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1734017.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Barman
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/barman-in-alba-iulia-1734002.html](https://www.jobrapid.ro/locuri-de-munca/barman-in-alba-iulia-1734002.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -55,12 +97,6 @@ _Generated: 2026-11-18T15:04:01.746Z_
 ### Lucrator Comercial
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Sapator Manual
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1733357.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1733357.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -115,12 +151,6 @@ _Generated: 2026-11-18T15:04:01.746Z_
 ### Femeie De Serviciu
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1733085.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1733085.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Asistent Medical Generalist
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1732057.html](https://www.jobrapid.ro/locuri-de-munca/asistent-medical-generalist-in-alba-iulia-1732057.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
