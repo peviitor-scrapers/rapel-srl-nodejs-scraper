@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (25)
+## Current Job Listings (26)
 
-_Generated: 2026-11-19T15:13:35.123Z_
+_Generated: 2026-11-20T14:52:30.597Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Femeie De Serviciu
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sofer De Autoturisme Si Camionete
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1734326.html](https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1734326.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -85,12 +97,6 @@ _Generated: 2026-11-19T15:13:35.123Z_
 ### Infirmier/infirmiera
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html](https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Agent De Vanzari
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1733392.html](https://www.jobrapid.ro/locuri-de-munca/agent-de-vanzari-in-alba-iulia-1733392.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
