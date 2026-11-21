@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-20 |
+| Last Scraped | 2026-11-21 |
 
-## Current Job Listings (26)
+## Current Job Listings (33)
 
-_Generated: 2026-11-20T14:52:30.597Z_
+_Generated: 2026-11-21T14:11:29.801Z_
 
 ### Curier
 
@@ -22,15 +22,69 @@ _Generated: 2026-11-20T14:52:30.597Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Femeie De Serviciu
+### Mecanic Auto
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734866.html](https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734866.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Sofer De Autoturisme Si Camionete
+### Electrician Auto
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1734326.html](https://www.jobrapid.ro/locuri-de-munca/sofer-de-autoturisme-si-camionete-in-alba-iulia-1734326.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-auto-in-alba-iulia-1734864.html](https://www.jobrapid.ro/locuri-de-munca/electrician-auto-in-alba-iulia-1734864.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Agent Curatenie Cladiri Si Mijloace De Transport
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/agent-curatenie-cladiri-si-mijloace-de-transport-in-alba-iulia-1734862.html](https://www.jobrapid.ro/locuri-de-munca/agent-curatenie-cladiri-si-mijloace-de-transport-in-alba-iulia-1734862.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Casier
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/casier-in-alba-iulia-1734859.html](https://www.jobrapid.ro/locuri-de-munca/casier-in-alba-iulia-1734859.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Dispecer
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/dispecer-in-alba-iulia-1734856.html](https://www.jobrapid.ro/locuri-de-munca/dispecer-in-alba-iulia-1734856.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Conducator Auto Transport Rutier De Persoane
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-persoane-in-alba-iulia-1734851.html](https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-persoane-in-alba-iulia-1734851.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Magaziner
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/magaziner-in-alba-iulia-1734784.html](https://www.jobrapid.ro/locuri-de-munca/magaziner-in-alba-iulia-1734784.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician Montare Si Reparatii Linii Electrice Aeriene
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-montare-si-reparatii-linii-electrice-aeriene-in-alba-iulia-1734654.html](https://www.jobrapid.ro/locuri-de-munca/electrician-montare-si-reparatii-linii-electrice-aeriene-in-alba-iulia-1734654.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician Pentru Utilizarea Energiei Electrice
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-pentru-utilizarea-energiei-electrice-in-alba-iulia-1730171.html](https://www.jobrapid.ro/locuri-de-munca/electrician-pentru-utilizarea-energiei-electrice-in-alba-iulia-1730171.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Electrician De Intretinere Si Reparatii
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1730168.html](https://www.jobrapid.ro/locuri-de-munca/electrician-de-intretinere-si-reparatii-in-alba-iulia-1730168.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Femeie De Serviciu
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html](https://www.jobrapid.ro/locuri-de-munca/femeie-de-serviciu-in-alba-iulia-1734538.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -76,12 +130,6 @@ _Generated: 2026-11-20T14:52:30.597Z_
 - **Location:** Alba Iulia
 - **Status:** scraped
 
-### Ingrijitor Animale
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1734017.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1734017.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
 ### Barman
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/barman-in-alba-iulia-1734002.html](https://www.jobrapid.ro/locuri-de-munca/barman-in-alba-iulia-1734002.html)
@@ -97,12 +145,6 @@ _Generated: 2026-11-20T14:52:30.597Z_
 ### Infirmier/infirmiera
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html](https://www.jobrapid.ro/locuri-de-munca/infirmier-infirmiera-in-alba-iulia-1733521.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Lucrator Comercial
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html](https://www.jobrapid.ro/locuri-de-munca/lucrator-comercial-in-alba-iulia-1733362.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
