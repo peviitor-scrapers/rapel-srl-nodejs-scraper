@@ -10,15 +10,21 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-21 |
+| Last Scraped | 2026-11-22 |
 
-## Current Job Listings (33)
+## Current Job Listings (34)
 
-_Generated: 2026-11-21T14:11:29.801Z_
+_Generated: 2026-11-22T14:00:42.829Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Medic Veterinar
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/medic-veterinar-in-alba-iulia-1734936.html](https://www.jobrapid.ro/locuri-de-munca/medic-veterinar-in-alba-iulia-1734936.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
