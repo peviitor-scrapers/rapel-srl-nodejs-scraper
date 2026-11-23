@@ -10,15 +10,33 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (34)
+## Current Job Listings (37)
 
-_Generated: 2026-11-22T14:00:42.829Z_
+_Generated: 2026-11-23T17:21:56.893Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sapator Manual
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Medic Veterinar
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/medic-veterinar-in-alba-iulia-1735036.html](https://www.jobrapid.ro/locuri-de-munca/medic-veterinar-in-alba-iulia-1735036.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
