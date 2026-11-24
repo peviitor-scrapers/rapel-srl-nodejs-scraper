@@ -10,16 +10,22 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (37)
 
-_Generated: 2026-11-23T17:21:56.893Z_
+_Generated: 2026-11-24T16:56:43.964Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
 - **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat In Silvicultura
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html)
+- **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
 ### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
@@ -134,12 +140,6 @@ _Generated: 2026-11-23T17:21:56.893Z_
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-marfuri-in-alba-iulia-1734220.html](https://www.jobrapid.ro/locuri-de-munca/conducator-auto-transport-rutier-de-marfuri-in-alba-iulia-1734220.html)
 - **Location:** Alba Iulia
-- **Status:** scraped
-
-### Muncitor Necalificat In Silvicultura
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-in-silvicultura-in-alba-iulia-1734213.html)
-- **Location:** Silvicultura In Alba Iulia
 - **Status:** scraped
 
 ### Camerista Hotel
