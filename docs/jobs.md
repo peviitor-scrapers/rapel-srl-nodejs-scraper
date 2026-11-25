@@ -10,15 +10,27 @@
 | Location | JUD. ALBA, SAT RĂHĂU MUN. SEBEŞ, STR. PRINCIPALA, NR.1 |
 | Website | [https://www.rapel.biz](https://www.rapel.biz) |
 | Careers | [https://www.rapel.biz](https://www.rapel.biz) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (37)
+## Current Job Listings (40)
 
-_Generated: 2026-11-24T16:56:43.964Z_
+_Generated: 2026-11-25T16:45:59.571Z_
 
 ### Curier
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html](https://www.jobrapid.ro/locuri-de-munca/curier-in-alba-iulia-1710210.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Sapator Manual
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Referent Resurse Umane
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/referent-resurse-umane-in-alba-iulia-1735460.html](https://www.jobrapid.ro/locuri-de-munca/referent-resurse-umane-in-alba-iulia-1735460.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -30,13 +42,25 @@ _Generated: 2026-11-24T16:56:43.964Z_
 
 ### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735398.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735398.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Ingrijitor Animale
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1735387.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-animale-in-alba-iulia-1735387.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
 ### Sapator Manual
 
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735174.html)
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735383.html](https://www.jobrapid.ro/locuri-de-munca/sapator-manual-in-alba-iulia-1735383.html)
+- **Location:** Alba Iulia
+- **Status:** scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL:** [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-alba-iulia-1735193.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
@@ -181,12 +205,6 @@ _Generated: 2026-11-24T16:56:43.964Z_
 ### Operator Imprimeur Textile
 
 - **URL:** [https://www.jobrapid.ro/locuri-de-munca/operator-imprimeur-textile-in-alba-iulia-1733268.html](https://www.jobrapid.ro/locuri-de-munca/operator-imprimeur-textile-in-alba-iulia-1733268.html)
-- **Location:** Alba Iulia
-- **Status:** scraped
-
-### Logoped
-
-- **URL:** [https://www.jobrapid.ro/locuri-de-munca/logoped-in-alba-iulia-1732862.html](https://www.jobrapid.ro/locuri-de-munca/logoped-in-alba-iulia-1732862.html)
 - **Location:** Alba Iulia
 - **Status:** scraped
 
